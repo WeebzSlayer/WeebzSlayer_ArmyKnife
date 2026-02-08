@@ -98,7 +98,7 @@ Gonna had a sql sync with HeidiSQL.
 
 ## 📠 Author's Note
 
-> "One last thing. I made this UI on purpose to mock the ego of some of these so-called devs in the modding community. You're taking yourself too seriously you need to chill lol. To laugh at oneself is to embrace humility. Tu te prends trop au sérieux mon pote.😂"
+> "One last thing. I made this UI on purpose to mock the ego of some "devs" in the modding community. You're taking yourself too seriously you need to chill lol. To laugh at oneself is to embrace humility. The next project is the Loading_Screens_Studio and I already have an idea for the UI.😂"
 
 ### 🔓 License
 **Free and Open Source.** 🏴‍☠️
