@@ -1,13 +1,12 @@
---- WeebzSlayer_ArmyKnife --- 
+== WeebzSlayer_ArmyKnife ==
 
 Ez retroporter & toolshed
 
-=============================================================================================================================================================================
+
 The process of retroporting can be very discouraging at first for beginners and for experienced players it remains the same boring task of filling and modifying paths, dbc editing and sql editing... 
 This army knife was made to simplify the differents steps you need to retroport items, creatures, create a mounts, fix m2 particles and convert OBJ to M2.
-=============================================================================================================================================================================
 
-Item_Retroport
+== Item_Retroport ==
 
 I will go through all the tedious steps still required to import the dbcs and the sql. If you already have retroported items; this tool should make the process faster and less boring (I guess).
 
@@ -32,9 +31,9 @@ Quit MPQeditor.
 
 7- Move your Patch-w in your Client Data folder. Start the game spawn the item with .additem (replace this by the ID in itemtemplate.sql)
 
-Congratulation. Your new item is now retroported!
+== Congratulation. Your new item is now retroported! ==
 
-WIP
+== WIP ==
 
 Thanks to iThorgrim for the m2_particle_fix inspiration.
 Thanks to August for being a friend in this community.
