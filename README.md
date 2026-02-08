@@ -4,6 +4,8 @@
 
 # ⚔️ WeebzSlayer_ArmyKnife 🛠️
 
+![wbzlr](banner.png)
+
 > **Ez retroporter & toolshed**
 
 ## 👨‍💻 About The Project
