@@ -81,13 +81,13 @@ This app is ready **Plug and Play**. I just need to finish the Readme.
 *   **August**: For being a friend in this community.
 *   **manmadedrummer**: For the previous inspiration.
 *   **Titi**: For the multiple helps in the past.
-*   💀 Special shout out to the weirdo reddit mod and any of these preposterous individuals. (I'm not going to thank the popular crackhead that thought I was part of the hate mob against him lol).
+*   💀 Special shout out to the weirdo reddit mod and any of these preposterous individuals. I'm not going to acknowledge the popular crackhead that thought I was part of the hate mob against him lol.
 
 ---
 
 ## 📠 Author's Note
 
-> "One last thing. I made this UI on purpose to mock the ego of some of these so-called devs in the modding community. You're taking yourself too seriously—chill. To laugh at oneself is to embrace humility."
+> "One last thing. I made this UI on purpose to mock the ego of some of these so-called devs in the modding community. You're taking yourself too seriously you need to chill lol. To laugh at oneself is to embrace humility."
 
 ### 🔓 License
 **Free and Open Source.** 🏴‍☠️
