@@ -129,7 +129,7 @@ I will go through all the tedious steps still required to import the DBCs and th
 ## 🚧 Work In Progress (WIP)
 
 This app is ready **Plug and Play**🔌✅. I just need to finish the Readme.
-Gonna add a sql sync with HeidiSQL.
+Gonna add a sql sync with HeidiSQL. A very minor change is in the creature_retroport. I will have to change creaturemodel.dbc to creaturemodeldata.dbc. At the moment this isn't affecting anything tho.
 
 ---
 
