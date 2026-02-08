@@ -82,6 +82,8 @@ This app is ready **Plug and Play**. I just need to finish the Readme.
 ## 👾 Credits & Acknowledgements
 
 *   **iThorgrim**: For the `m2_particle_fix` inspiration.
+*   **ayahne**: For the `m2_particle_fix` python script .
+*   **Sylian**: For the `OBJ_to_M2` tutorial.
 *   **August**: For being a friend in this community.
 *   **manmadedrummer**: For the previous inspiration.
 *   **Titi**: For the multiple helps in the past.
