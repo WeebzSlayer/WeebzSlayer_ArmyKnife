@@ -93,7 +93,7 @@ This app is ready **Plug and Play**. I just need to finish the Readme.
 
 ## 📠 Author's Note
 
-> "One last thing. I made this UI on purpose to mock the ego of some of these so-called devs in the modding community. You're taking yourself too seriously you need to chill lol. To laugh at oneself is to embrace humility."
+> "One last thing. I made this UI on purpose to mock the ego of some of these so-called devs in the modding community. You're taking yourself too seriously you need to chill lol. To laugh at oneself is to embrace humility. Tu te prends trop au sérieux."
 
 ### 🔓 License
 **Free and Open Source.** 🏴‍☠️
