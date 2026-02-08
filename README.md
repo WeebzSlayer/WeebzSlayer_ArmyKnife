@@ -1,48 +1,58 @@
-<ins>**WeebzSlayer_ArmyKnife**<ins>
-
+⚔️ WeebzSlayer_ArmyKnife 🛠️
 Ez retroporter & toolshed
-
-
-The process of retroporting can be very discouraging at first for beginners and for experienced players it remains the same boring task of filling and modifying paths, dbc editing and sql editing... 
-This army knife was made to simplify the differents steps you need to retroport items, creatures, create a mounts, fix m2 particles and convert OBJ to M2.
-
-<ins>**Item_Retroport**<ins>
-
-I will go through all the tedious steps still required to import the dbcs and the sql. If you already have retroported items; this tool should make the process faster and less boring (I guess).
-
-1- Fill every case with the values that correspond to the item dbcs tables and sqls tables.
-
-2- Make sure the path ends with .mdx for the Modelname_1. item/objectcomponents/weapon/example.mdx
-
-3- Texture_1 and Texture_2 doesn't require .blp at the end of the path. only write the model name.
-
-4- Copy the item.dbc. Open notepad and paste it. Save the text file as item.csv
-Copy the itemdisplayinfo.dbc. Open notepad and paste it. Save the text file as itemdisplayinfo.csv
-Copy the server sql item_template. Open notepad and paste it. Save the text file as item_template.sql
-
-5- Open your server data folder where item.dbc is located. Open item.dbc with Wdbx. In Wdbx click on "import". Click "from CSV" and locate the item.dbc file you saved in step 4. Click on ok. Click on save. Quit Wdbx. copy your new item.dbc updated and put it somewhere you will need it for your client patch.
-
-Open your server data folder where itemdisplayinfo.dbc is located. Open itemdisplayinfo.dbc with Wdbx. In Wdbx click on "import". Click "from CSV" and locate the item.dbc file you saved in step 4. Click on ok. Click on save. Quit Wdbx. Copy your new itemdisplayinfo.dbc updated and put it somewhere you will need it for your client patch.
-
-For item_template.sql I will use HeidiSQL and Azerothcore. Start HeidiSQL. Select your acore_world/item_template table. Start a new request query paste the item_template.sql you previously saved in step 4. Run the query.
-
-6- Last step will be the patch step. Open MPQeditor. Create a new patch. Patch-w for example. Indicate the path of your item objectcomponents and other files required for his retroporting (they should be in the same file directory). Click on "ok". Add a bigger size for the patch. Click on "ok". Now click on create a new folder. Create a new folder. Name it "DBFilesClient". Click on the new DBFilesClient folder and click on add files. Add your item.dbc and itemdisplayinfo.dbc updated that you saved in step 5.
-Quit MPQeditor.
-
-7- Move your Patch-w in your Client Data folder. Start the game spawn the item with .additem (replace this by the ID in itemtemplate.sql)
-
-**Congratulations! Your new item is now retroported!**
-
-**WIP** This app is ready plug and play. I just need to finish the Readme.
-
-Thanks to iThorgrim for the m2_particle_fix inspiration.
-Thanks to August for being a friend in this community.
-Thanks to manmadedrummer for the previous inspiration.
-Thanks to Titi for the multiple helps in the past.
-A special shout out to the weirdo reddit mod and any of these preposterous individuals.
-I'm not going to thank the popular crackhead that thought I was part of the hate mob against him lol.
-
-One last thing I made this UI on purpose to mock the ego of some of these so called devs in the modding community. You're taking yourself too seriously chill. 
-To laugh at oneself is to embrace humility.
-
-Free and Open Source.
+👨‍💻 About The Project
+The process of retroporting can be very discouraging at first for beginners. Even for experienced players, it remains the same boring task of filling and modifying paths, DBC editing, and SQL editing...
+WeebzSlayer_ArmyKnife was made to simplify the different steps you need to:
+Retroport Items & Creatures 👹
+Create Mounts 🐎
+Fix M2 particles ✨
+Convert OBJ to M2 🧊
+🚀 Features
+Automated Workflow: Skips the tedious manual entry.
+Plug & Play: Ready to use immediately.
+Multi-Tool: Handles DB, SQL, and Model tasks in one UI.
+📖 Item_Retroport Documentation
+I will go through all the tedious steps still required to import the DBCs and the SQL. If you already have retroported items, this tool should make the process faster and less boring (I guess).
+🛠️ Step-by-Step Guide
+Fill Data: Fill every case with the values that correspond to the item dbcs tables and sqls tables.
+Model Paths: Make sure the path ends with .mdx for the Modelname_1.
+Example: item/objectcomponents/weapon/example.mdx
+Textures: Texture_1 and Texture_2 do not require .blp at the end of the path. Only write the model name.
+Exporting Files:
+Copy the item.dbc. Open Notepad, paste it, and save as item.csv.
+Copy the itemdisplayinfo.dbc. Open Notepad, paste it, and save as itemdisplayinfo.csv.
+Copy the server SQL item_template. Open Notepad, paste it, and save as item_template.sql.
+💾 Database & SQL Injection
+WDBX Import:
+Item.dbc: Open your server data folder. Open item.dbc with Wdbx. Click Import > From CSV and select the item.csv from Step 4. Click OK, then Save.
+ItemDisplayInfo.dbc: Repeat the process. Open itemdisplayinfo.dbc with Wdbx. Click Import > From CSV, select itemdisplayinfo.csv. Click OK, then Save.
+Note: Copy your updated .dbc files and put them somewhere safe for your client patch.
+SQL: Open HeidiSQL (or your preferred manager). Select your acore_world/item_template table. Start a new query tab, paste the item_template.sql from Step 4, and Run the query.
+📦 Patching (MPQEditor)
+Create the Patch:
+Open MPQEditor. Create a new patch (e.g., Patch-w.mpq).
+Indicate the path of your item/objectcomponents and other files required for the retroport (ensure they are in the same directory). Click OK.
+Add a bigger size for the patch. Click OK.
+DBFilesClient: Click "Create a new folder" inside the MPQ. Name it DBFilesClient.
+Add your updated item.dbc and itemdisplayinfo.dbc (saved in Step 5) into this folder.
+Quit MPQEditor.
+🎮 Final Step
+Deployment:
+Move your Patch-w into your Client Data folder.
+Start the game and spawn the item:
+code
+Bash
+.additem [ID_FROM_SQL]
+Congratulations! Your new item is now retroported! 🎉
+🚧 Work In Progress (WIP)
+This app is ready Plug and Play. I just need to finish the Readme.
+👾 Credits & Acknowledgements
+iThorgrim: For the m2_particle_fix inspiration.
+August: For being a friend in this community.
+manmadedrummer: For the previous inspiration.
+Titi: For the multiple helps in the past.
+💀 Special shout out to the weirdo reddit mod and any of these preposterous individuals. (I'm not going to thank the popular crackhead that thought I was part of the hate mob against him lol).
+📠 Author's Note
+"One last thing. I made this UI on purpose to mock the ego of some of these so-called devs in the modding community. You're taking yourself too seriously—chill. To laugh at oneself is to embrace humility."
+🔓 License
+Free and Open Source. 🏴‍☠️
