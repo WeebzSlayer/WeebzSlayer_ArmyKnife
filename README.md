@@ -94,7 +94,7 @@ Gonna had a sql sync with HeidiSQL.
 
 ## 📠 Author's Note
 
-> "One last thing. I made this UI on purpose to mock the ego of some of these so-called devs in the modding community. You're taking yourself too seriously you need to chill lol. To laugh at oneself is to embrace humility. Tu te prends trop au sérieux."
+> "One last thing. I made this UI on purpose to mock the ego of some of these so-called devs in the modding community. You're taking yourself too seriously you need to chill lol. To laugh at oneself is to embrace humility. Tu te prends trop au sérieux mon pote.😂"
 
 ### 🔓 License
 **Free and Open Source.** 🏴‍☠️
