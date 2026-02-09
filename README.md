@@ -229,6 +229,12 @@ Gonna add a sql sync with HeidiSQL. A very minor change is in the creature_retro
 **Free and Open Source.** 🏴‍☠️ 🇫🇷
 
 ---
+
+If you like this module, feel free to give it a ⭐ on GitHub!
+
+---
+
+
 <p align="center"><img width="388" height="247" alt="wbzbanner" src="https://github.com/user-attachments/assets/d210117b-0361-41af-8095-756a645e95b0" />
 </p>
 
