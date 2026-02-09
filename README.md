@@ -234,7 +234,7 @@ Gonna add a sql sync with HeidiSQL. A very minor change is in the creature_retro
 
 ---
 
-If you like this module, feel free to give it a ⭐ on GitHub!
+If you like this tool, feel free to give it a ⭐ on GitHub.
 
 ---
 
