@@ -34,9 +34,9 @@ The process of retroporting can be very discouraging at first for beginners. Eve
 ## 📋 Requirements
 
 *   **AzerothCore**: [GitHub Repository](https://github.com/azerothcore)
-*   **WDBX Editor** [Download](https://github.com/WowDevTools/WDBXEditor/releases/download/1.1.9.a/WDBX.Editor.zip)
+*   **WDBX Editor**: [Download](https://github.com/WowDevTools/WDBXEditor/releases/download/1.1.9.a/WDBX.Editor.zip)
 *   **HeidiSQL** (or similar database manager): [Download](https://www.heidisql.com/download.php)
-*   **MPQEditor** [Download](https://www.hiveworkshop.com/bundles/ladiks-mpq-editor.249562/download?token=1b16ce1ef796f55750457a21b7f584dc_249562_1770599443)
+*   **MPQEditor**: [Download](https://www.hiveworkshop.com/bundles/ladiks-mpq-editor.249562/download?token=1b16ce1ef796f55750457a21b7f584dc_249562_1770599443)
 *   **Notepad++** *(Optional)*: [Download](https://notepad-plus-plus.org/downloads/)
 *   *Disable Notepad++ auto-update. If you know you know.* 🧸😉
 
@@ -190,14 +190,14 @@ Gonna add a sql sync with HeidiSQL. A very minor change is in the creature_retro
 
 ## 👾 Credits & Acknowledgements
 
-*   **iThorgrim**: For the `m2_particle_fix` inspiration.
+*   **[iThorgrim](https://github.com/iThorgrim)**: For the `m2_particle_fix` inspiration.
 *   **ayahne**: For the `m2_particle_fix` python script .
-*   **Sylian**: For the `OBJ_to_M2` tutorial.
+*   **[Sylian](https://github.com/Sylian1337)**: For the `OBJ_to_M2` tutorial.
 *   **August**: For being a friend in this community and having good ideas.
-*   **Wall**: For the `M2Workshop` script.
-*   **manmadedrummer**: For the previous inspirations.
-*   **Titi**: For the multiple helps and patience.
-*   💀 Special shout out to the weirdo reddit mod and any of these preposterous individuals. I'm not going to acknowledge the popular crackhead that thought I was part of the hate mob against him lol.
+*   **[Wall](https://github.com/Wall-core)**: For the `M2Workshop` script.
+*   **[manmadedrummer](https://github.com/manmadedrummer)**: For the previous inspirations.
+*   **[Titi](https://github.com/T1ti)**: For the multiple helps and patience.
+*   💀 Special shout out to the weirdo reddit mod and any of these preposterous individuals. I'm not going to acknowledge the popular crackhead (I found him very strange       and cringe) He thought I was part of some kind of hate mob against him lol. Lay down the pipe Smokeeeeeeeey!😂
 
 ---
 
