@@ -210,13 +210,13 @@ Gonna add a sql sync with HeidiSQL. A very minor change is in the creature_retro
 
 ## 👾 Credits & Acknowledgements
 
-*   **[iThorgrim](https://github.com/iThorgrim)**: For the `m2_particle_fix` inspiration.
-*   **ayahne**: For the `m2_particle_fix` python script .
-*   **[Sylian](https://github.com/Sylian1337)**: For the `OBJ_to_M2` tutorial.
-*   **August**: For being a friend in this community and having good ideas.
-*   **[Wall](https://github.com/Wall-core)**: For the `M2Workshop` script.
-*   **[manmadedrummer](https://github.com/manmadedrummer)**: For the previous inspirations.
-*   **[Titi](https://github.com/T1ti)**: For the multiple helps and patience.
+*   **[iThorgrim](https://github.com/iThorgrim)** : For the `m2_particle_fix` inspiration.
+*   **ayahne** : For the `m2_particle_fix` python script .
+*   **[Sylian](https://github.com/Sylian1337)** : For the `OBJ_to_M2` tutorial.
+*   **August** : For being a friend in this community and having good ideas.
+*   **[Wall](https://github.com/Wall-core)** : For the `M2Workshop` script.
+*   **[manmadedrummer](https://github.com/manmadedrummer)** : For the previous inspirations.
+*   **[Titi](https://github.com/T1ti)** : For the multiple helps and patience.
 *   💀 Special shout out to the weirdo reddit mod and any of these preposterous individuals. I'm not going to acknowledge the popular crackhead (I found him very strange       and cringe) He thought I was part of some kind of hate mob against him lol. Lay down the pipe Smokeeeeeeeey!😂
 
 ---
