@@ -212,8 +212,10 @@ Gonna add a sql sync with HeidiSQL. A very minor change is in the creature_retro
 
 ## 👾 Credits & Acknowledgements
 
+*   **[WeebzSlayer](https://github.com/WeebzSlayer)**
+*   **[3lchanguit0](https://github.com/3lchanguit0)**
 *   **[iThorgrim](https://github.com/iThorgrim)** : For the `m2_particle_fix` inspiration.
-*   **ayahne** : For the `m2_particle_fix` python script .
+*   **ayahne** : For the `m2_particle_fix` python script.
 *   **[Sylian](https://github.com/Sylian1337)** : For the `OBJ_to_M2` tutorial.
 *   **August** : For being a friend in this community and having good ideas.
 *   **[Wall](https://github.com/Wall-core)** : For the `M2Workshop` script.
