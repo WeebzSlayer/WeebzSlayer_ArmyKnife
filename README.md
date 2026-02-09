@@ -38,7 +38,7 @@ The process of retroporting can be very discouraging at first for beginners. Eve
 *   **HeidiSQL** (or similar database manager): [Download](https://www.heidisql.com/download.php)
 *   **MPQEditor**
 *   **Notepad++** *(Optional)*: [Download](https://notepad-plus-plus.org/downloads/)
-    *   *Disable autoupdate if you know you know* 😉
+*   *Disable auto-update. If you know you know.* 🧸😉
 
 ---
 
