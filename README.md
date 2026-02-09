@@ -49,9 +49,12 @@ I will go through all the tedious steps still required to import the DBCs and th
 ### 🛠️ Step-by-Step Guide
 
 1.  **Fill Data:** Fill every case with the values that correspond to the **item dbcs tables** and **sqls tables**.
+
 2.  **Model Paths:** Make sure the path ends with `.mdx` for the `Modelname_1`.
     *   *Example:* `item/objectcomponents/weapon/example.mdx`
+
 3.  **Textures:** **Texture_1** and **Texture_2** do not require `.blp` at the end of the path. Only write the model name.
+
 4.  **Exporting Files:**
     *   Copy the `item.dbc`. Open Notepad, paste it, and save as `item.csv`.
     *   Copy the `itemdisplayinfo.dbc`. Open Notepad, paste it, and save as `itemdisplayinfo.csv`.
