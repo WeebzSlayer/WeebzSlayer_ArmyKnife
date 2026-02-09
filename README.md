@@ -99,9 +99,12 @@ I will go through all the tedious steps still required to import the DBCs and th
 ### 🛠️ Step-by-Step Guide
 
 1.  **Fill Data:** Fill every case with the values that correspond to the **creature dbcs tables** and **sqls tables**.
+
 2.  **Model Paths:** Make sure the path ends with `.mdx` for the `Modelname`.
     *   *Example:* `creature/example/example.mdx`
+
 3.  **Textures:** **Texturevariation_1**, **Texturevariation_2** and **Texturevariation_3** do not require `.blp` at the end of the path. Only write the model name.
+
 4.  **Exporting Files:**
     *   Copy the `creaturemodelinfo.dbc`. Open Notepad, paste it, and save as `creaturemodelinfo.csv`.
     *   Copy the `creaturedisplayinfo.dbc`. Open Notepad, paste it, and save as `creaturedisplayinfo.csv`.
@@ -152,6 +155,7 @@ Work in Progress. Documenting process engaged `beep beep`... BOOOOooooooring huh
 ### 🛠️ Step-by-Step Guide
 
 1.  **Input:** Drag & Drop your broken `.m2` file.
+
 2.  **Et voilà!** Nothing more to do, the file is fixed!
     *   A **green success message** should appear on the right screen log.
     *   If it failed, you will see a **red message** detailing the error on the right screen log.
@@ -163,10 +167,13 @@ Work in Progress. Documenting process engaged `beep beep`... BOOOOooooooring huh
 ### 🛠️ Step-by-Step Guide
 
 1.  **Source:** Drag & Drop your OBJ in **SOURCE_OBJ**.
+
 2.  **Texture:** Drag & Drop your TEXTURE in **TEXTURE_REF**.
+
 3.  **Fill Data:** Fill the `ingametexturepath`.
     *   *Example:* `item/objectcomponents/weapons/`
     *   *Warning:* Path will be injected into M2 header offset `0x58`.
+
 4.  **Convert:** Click on **INITIALIZE_CONVERSION**. The processes should start.
     *   The **status_monitor** should turn green and the screen log should start.
 
