@@ -28,7 +28,7 @@ The process of retroporting can be very discouraging at first for beginners. Eve
 
 ## 🚀 Features
 
-*   **Automated Workflow:** Skips the tedious manual entry. Copy,save and import.
+*   **Automated Workflow:** Skips the tedious manual entry. Copy, save and import.
 *   **Plug & Play:** Ready to use immediately. Download weebzslayer_armyknife1.1.0 in releases and start it.
 *   **Multi-Tool:** Handles DB, SQL, and Model tasks in one UI.
 
