@@ -20,7 +20,7 @@ The process of retroporting can be very discouraging at first for beginners. Eve
 **WeebzSlayer_ArmyKnife** was made to simplify the different steps you need to:
 
 *   Retroport Items⚔️ & Creatures👹
-*   Create Mounts 🐎
+*   Create Mounts 🐎 (WIP)🚧
 *   Fix M2 particles ✨
 *   Convert `OBJ` to `M2` 🧊
 
