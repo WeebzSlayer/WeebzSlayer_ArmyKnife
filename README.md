@@ -242,3 +242,7 @@ If you like this tool, feel free to give it a ⭐ on GitHub.
 <p align="center"><img width="388" height="247" alt="wbzbanner" src="https://github.com/user-attachments/assets/d210117b-0361-41af-8095-756a645e95b0" />
 </p>
 
+---
+
+*Slay those weebz!* 🗡️
+
